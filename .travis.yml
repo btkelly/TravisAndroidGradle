@@ -3,3 +3,5 @@ android:
   components:
     - build-tools-19.0.2
     - android-14
+  licenses:
+    - android-sdk-license-*
