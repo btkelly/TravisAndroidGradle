@@ -4,4 +4,4 @@ android:
     - build-tools-20.0.0
     - android-20
   licenses:
-    - android-sdk-license-*
+    - /^android-sdk-license-.*$/
